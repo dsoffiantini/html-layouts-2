@@ -1,0 +1,70 @@
+.tri-block {
+  width: 95%;
+  height: 15vh;
+  display: inline-block;
+  padding: 20px;
+  margin-left: 20px;
+}
+
+.red {
+  background: red;
+  width: 30%;
+}
+
+.blue {
+  background: blue;
+  width: 30%;
+}
+
+.gray {
+  background: gray;
+  width: 30%;
+}
+
+.words {
+  padding: 50px;
+}
+
+.large-split {
+  width: 95%;
+  height: 40vh;
+  display:inline-block;
+  padding: 20px;
+}
+
+.large-blue {
+  background: blue;
+  width: 35%;
+}
+
+.large-red {
+  background: red;
+  width: 60%;
+}
+
+.last-container {
+  width: 95%;
+  height: 10vh;
+  display:inline-block;
+  padding: 20px;
+}
+
+.last-blue {
+  background: blue;
+  width: 65%;
+}
+
+.last-red-1 {
+  background: red;
+  width: 5%;
+}
+
+.last-gray {
+  background: gray;
+  width: 20%;
+}
+
+.last-red-2 {
+  background: red;
+  width: 5%;
+}
